@@ -6,6 +6,28 @@ body {
 
 }
 
-h1 {
-    color: lavenderblush;
+h2 {
+    color: white;
+}
+
+header {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    color: black;
+
+}
+
+nav {
+    color: blue;
+}
+
+footer {
+    background-color: bisque;
+    font-size: 25px;
+    text-align: right;
+    padding: 5px;
+    color:black;
+
 }
