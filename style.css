@@ -1,0 +1,11 @@
+body {
+    background-image: url(gallery/background.jpg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    color: lavenderblush;
+}
