@@ -42,14 +42,16 @@ nav ul li a i {
     color:black;
     position: absolute;
     bottom: 0;
-    left: 10%;
-    transform:translateX(-15%) ;
+    left: 0;
+    transform:translateX(0) ;
     font-size: 25px;
 }
 nav ul li a span {
     display: block;
     font-size: 20px;
     color: blue;
+    left: 5%;
+    transform:translateX(5%) ;
 
 }
 footer {
