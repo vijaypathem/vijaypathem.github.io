@@ -6,14 +6,10 @@ body {
 
 }
 
-h2 {
-    color: white;
-}
-
 header {
     background-color: aliceblue;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     padding: 10px;
     color: black;
 
@@ -30,4 +26,8 @@ footer {
     padding: 5px;
     color:black;
 
+}
+
+#cs,#name {
+    text-align: center;
 }
