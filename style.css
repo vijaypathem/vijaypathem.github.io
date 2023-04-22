@@ -50,8 +50,8 @@ nav ul li a span {
     display: block;
     font-size: 20px;
     color: blue;
-    left: 5%;
-    transform:translateX(5%) ;
+    left: 30px;
+    transform:translateX(30px) ;
 
 }
 footer {
