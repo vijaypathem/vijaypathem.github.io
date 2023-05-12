@@ -1,0 +1,15 @@
+div ol li a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    padding: 0.2 rem;
+}
+.back-opt a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
