@@ -1,10 +1,10 @@
-.projects-list {
+div ol li a {
     text-decoration: none;
     color: black;
     font-size: large;
     padding: 0.2 rem;
 }
-.back-opt{
+.back-opt a{
     text-decoration: none;
     color: black;
 }
