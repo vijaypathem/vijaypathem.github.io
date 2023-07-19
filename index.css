@@ -23,9 +23,7 @@ nav {
     padding: 10px;
 }
 
-h3 {
-    font-size: 36px;
-}
+
 
 #name {
     font-size: 28px;
@@ -45,14 +43,6 @@ h3 {
     margin: 0 auto;
     padding: 20px;
 }
-
-h3 {
-    font-size: 24px;
-    color: #2980b9;
-    text-align: center;
-}
-
-
 
 ul.top-right {
     float: right;
